@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Siroco</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_appointment">Appointments</string>
+    <string name="title_message">Message</string>
+
+
+    <string name="title_educatio">Patient Education</string>
+    <string name="sub_education">Knowledge base</string>
+    <string name="details">Patient Details</string>
+    <string name="sub_details">About your general and insurance details</string>
+    <string name="clinicinfo">Clinic Info</string>
+    <string name="sub_clinicinfo">Problems,Allergies,Lab results and more</string>
+    <string name="medicalhistory">Medical History &amp; Health Summary</string>
+    <string name="sub_medicahistory">Know your past and present conditions</string>
+    <string name="pharmacy">Preferred Pharmacy</string>
+    <string name="sub_pharmacy">-- preferred pharmacy in Dallas region</string>
+    <string name="planofcare">Plan of Care</string>
+    <string name="sub_planofcare">Show your medical plan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
